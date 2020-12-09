@@ -1,7 +1,8 @@
 # Adversairal-training-for-human-pose-estimation-using-HRNet
+Project of ENGN8501(Advanced topic for computer vision)
 [PROJECT REPORT](https://github.com/redlessme/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501_project_report.pdf)  
-[Presentation slide](https://github.com/huangchaoxing/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501.pptx)  
-Semester project of ANU ENGN6528/ENGN4528(computer vision)
+[Presentation slide](https://github.com/redlessme/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501.pptx)  
+
 
 
 ## Introduction
