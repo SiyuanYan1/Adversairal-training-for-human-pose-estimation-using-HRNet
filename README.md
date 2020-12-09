@@ -1,6 +1,6 @@
 # Adversairal-training-for-human-pose-estimation-using-HRNet
 [PROJECT REPORT](https://github.com/redlessme/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501_project_report.pdf)  
-[Presentation slide](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/Project_DEMO_Group-27.pdf)  
+[Presentation slide](https://github.com/huangchaoxing/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501.pptx)  
 Semester project of ANU ENGN6528/ENGN4528(computer vision)
 
 
