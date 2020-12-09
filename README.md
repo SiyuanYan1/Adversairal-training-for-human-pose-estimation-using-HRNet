@@ -1,4 +1,8 @@
 # Adversairal-training-for-human-pose-estimation-using-HRNet
+[PROJECT REPORT](https://github.com/redlessme/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501_project_report.pdf)  
+[Presentation slide](https://github.com/huangchaoxing/Vision-based-steering-angle-prediction/blob/master/Project_DEMO_Group-27.pdf)  
+Semester project of ANU ENGN6528/ENGN4528(computer vision)
+
 
 ## Introduction
 Since our code is developed on the official implementation of [*Deep High-Resolution Representation Learning for Human Pose Estimation*](https://arxiv.org/abs/1902.09212). This instruction is highly based and similar to the original [HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch).
