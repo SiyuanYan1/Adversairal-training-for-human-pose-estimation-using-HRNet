@@ -2,14 +2,14 @@
 Project of ENGN8501(Advanced topic for computer vision)
 
 [PROJECT REPORT](https://github.com/redlessme/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501_project_report.pdf)  
-[Presentation slide](https://github.com/redlessme/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501_project_report.pdf)  
+[Presentation slide](https://github.com/redlessme/Adversairal-training-for-human-pose-estimation-using-HRNet/blob/master/8501.pdf)  
 
 
 
 ## Introduction
 Since our code is developed on the official implementation of [*Deep High-Resolution Representation Learning for Human Pose Estimation*](https://arxiv.org/abs/1902.09212). This instruction is highly based and similar to the original [HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch).
 
-## Our work
+## Our contribution
 - We proposed a novel self adversarial learning architecture that leveraged the HRNet, increased estimation accuracy when occlusions and implausible poses are presented.
 
 - We designed a boundary equilibrium scheme for our adversarial training, by balancing the learning speed for our discriminator, we proved that our adversarial training strategy is more stable and can avoid mode collapse when using HRNet as the backbone.
